@@ -26,9 +26,7 @@ The repository owners and contributors are not responsible for any misuse or ill
 
 ## AUTHORS
 The authors of these CTF challenges are 
-1. Pavan R Kashyap
-2. Phaneesh R Katti
-3. Hrishikesh Bhat P
-4. Pranav K Hegde
+1. Hrishikesh Bhat P 
+2. Pavan R Kashyap
 
 These challenges are subject to copyright. Reach out to infectedcapstone02@gmail.com if you wish to use these challenges for any commercial use. 
